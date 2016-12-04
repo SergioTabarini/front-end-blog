@@ -55,7 +55,7 @@ After installing the modules run this command:
 gulp
 ```
 
-## 4. Handing the project
+## 5. Handing the project
 
 To hand this project you must commit the changes and then push the project to your remote repository in Github.
 
