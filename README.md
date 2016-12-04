@@ -20,7 +20,7 @@ Change *SergioTabarini* for your user name.
 
 ## 2. Open the design and analyse it
 
-An image or a photoshop file from a designer is going to be your only guide when you work with a development team. This image is going to give you the guidelines you need to follow for the software. Open the image [blog-sketch](blog-sketch.png)
+An image or a photoshop file from a designer is going to be your only guide when you work with a development team. This image is going to give you the guidelines you need to follow for the software. Open the image [blog-sketch](assets/mockup/frontend-blog.psd)
 to see how your webpage is going to look like.
 
 
