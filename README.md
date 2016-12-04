@@ -26,7 +26,7 @@ to see how your webpage is going to look like.
 
 ## 3. Write the code
 
-Make sure you write all of your HTML code at [index.html](index.html) and all of you CSS code at  [styles.css](css/styles.css). Through code, you have to make the closest webpage possible to the blog-sketch image [blog-sketch](assets/mockup/frontend-blog.psd). 
+Make sure you write all of your HTML code at [index.html](index.html) and all of you CSS code at  [styles.css](assets/css/style.css). Through code, you have to make the closest webpage possible to the blog-sketch image [blog-sketch](assets/mockup/frontend-blog.psd). 
 
 ### Write 3 posts
 Now you have to write at least 3 posts.
