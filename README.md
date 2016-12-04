@@ -14,7 +14,7 @@ the project must be the same as the specifications asked here, so that your proj
 **Fork** the repository for your user. You have to locally clone the repository. On the terminal you must write the following code:
 
 ```
-git clone https://github.com/SergioTabarini/frontend-blog.git
+git clone https://github.com/SergioTabarini/front-end-blog.git
 ```
 Change *SergioTabarini* for your user name.
 
